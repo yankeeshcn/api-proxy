@@ -1,0 +1,8 @@
+{
+  "env": {
+    "HOMEPAGE_ENABLE": "true",
+    "PROXY_GEMINI_TARGET": "https://generativelanguage.googleapis.com",
+    "PROXY_OPENAI_TARGET": "https://api.openai.com",
+    "PROXY_ANTHROPIC_TARGET": "https://api.anthropic.com"
+  }
+}
